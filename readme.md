@@ -1,4 +1,4 @@
-## This is my also ripositoris
+## This is my also repositories
 
 1. HTML
 2. CSS
@@ -6,6 +6,6 @@
 
 <br/>
 
-## my image
+## My image
 
 <img src="./images/f.png">
